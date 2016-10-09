@@ -173,7 +173,6 @@
 	<pga name="VBC ADCL DG Set" bit="8" />
 	<pga name="VBC ADCL DG Switch" bit="15" />
 </profile>
-
 <profile name="recognition-capture-r">
 	<pga name="ADCR Capture Volume" bit="1" />
 	<pga name="MIC Boost" bit="5" />
@@ -183,7 +182,6 @@
 	<pga name="VBC ADCR DG Set" bit="8" />
 	<pga name="VBC ADCR DG Switch" bit="15" />
 </profile>
-
 <profile name="voice-capture-l">
 	<pga name="ADCL Capture Volume" bit="0" />
 	<pga name="MIC Boost" bit="6" />
