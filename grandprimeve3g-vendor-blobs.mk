@@ -38,7 +38,7 @@ PROPRIETARY_FILES := \
     etc/wifi/bcmdhd_sta.bin \
     etc/wifi/nvram_mfg.txt \
     vendor/firmware/BCM43430A1_V0025.0070.hcd \
-    bin/rild_sprd \
+    bin/rild \
     bin/modemd \
     bin/nvitemd \
     bin/phoneserver \
