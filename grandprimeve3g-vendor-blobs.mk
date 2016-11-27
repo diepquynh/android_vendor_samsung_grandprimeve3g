@@ -81,7 +81,8 @@ PROPRIETARY_FILES := \
     lib/hw/hwcomposer.sc8830.so \
     lib/hw/sensors.sc8830.so \
     lib/hw/sprd_gsp.sc8830.so \
-    lib/libyasalgo.so
+    lib/libyasalgo.so \
+    bin/sswap
 
 PRODUCT_COPY_FILES += \
     $(foreach f,$(PROPRIETARY_FILES),vendor/samsung/grandprimeve3g/proprietary/$(f):system/$(f))
