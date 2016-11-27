@@ -20,16 +20,11 @@ PROPRIETARY_FILES := \
     bin/refnotify \
     bin/engpc \
     lib/libatparser.so \
-    etc/gps.conf \
     bin/gpsd \
     bin/gps.cer \
     lib/hw/gps.default.so \
     lib/libboost.so \
     lib/egl/libGLES_mali.so \
-    etc/audio_hw.xml \
-    etc/audio_para \
-    etc/codec_pga.xml \
-    etc/tiny_hw.xml \
     lib/libfactoryutil.so \
     lib/libomission_avoidance.so \
     lib/libatchannel.so \
