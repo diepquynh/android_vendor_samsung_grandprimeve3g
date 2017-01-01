@@ -43,6 +43,7 @@ PROPRIETARY_FILES := \
     bin/ext_symlink.sh \
     bin/prepare_param.sh \
     lib/libril.so \
+    lib/libsec-ril.so \
     lib/libreference-ril_sp.so \
     lib/libsecril-client.so \
     lib/libsecnativefeature.so \
@@ -65,17 +66,9 @@ PROPRIETARY_FILES := \
     lib/libomx_vpxdec_hw_sprd.so \
     lib/libomx_m4vh263dec_hw_sprd.so \
     lib/libomx_m4vh263enc_hw_sprd.so \
-    lib/libstagefrighthw.so \
-    lib/libstagefright_sprd_h264dec.so \
-    lib/libstagefright_sprd_h264enc.so \
-    lib/libstagefright_sprd_mpeg4dec.so \
-    lib/libstagefright_sprd_mpeg4enc.so \
-    lib/libstagefright_sprd_vpxdec.so \
     lib/hw/camera.sc8830.so \
     lib/hw/gralloc.sc8830.so \
-    lib/hw/hwcomposer.sc8830.so \
     lib/hw/sensors.sc8830.so \
-    lib/hw/sprd_gsp.sc8830.so \
     lib/libyasalgo.so \
     bin/sswap
 
