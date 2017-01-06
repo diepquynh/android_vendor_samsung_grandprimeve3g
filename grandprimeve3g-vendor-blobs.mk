@@ -43,7 +43,6 @@ PROPRIETARY_FILES := \
     bin/ext_symlink.sh \
     bin/prepare_param.sh \
     lib/libril.so \
-    lib/libsec-ril.so \
     lib/libreference-ril_sp.so \
     lib/libsecril-client.so \
     lib/libsecnativefeature.so \
