@@ -23,6 +23,7 @@ PROPRIETARY_FILES := \
     bin/gpsd \
     bin/gps.cer \
     lib/hw/gps.default.so \
+	lib/liblcsagent.so \
     lib/libboost.so \
     lib/egl/libGLES_mali.so \
     lib/libfactoryutil.so \
