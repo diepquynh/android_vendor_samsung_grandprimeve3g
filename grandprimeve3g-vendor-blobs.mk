@@ -17,18 +17,6 @@
 PROPRIETARY_FILES := \
     lib/libisp.so \
     lib/libmorpho_easy_hdr.so \
-    lib/libcalibration.so \
-    lib/libAF.so \
-    lib/libsft_af_ctrl.so \
-    lib/libdeflicker.so \
-    lib/libynoise.so \
-    lib/libspaf.so \
-    lib/liblsc.so \
-    lib/libAl_Awb.so \
-    lib/libAl_Awb_Sp.so \
-    lib/libae.so \
-    lib/libawb.so \
-    lib/hw/camera.sc8830.so \
     lib/hw/sensors.sc8830.so \
     lib/libyasalgo.so
 
