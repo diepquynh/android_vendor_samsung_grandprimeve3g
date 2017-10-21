@@ -17,6 +17,7 @@
 PROPRIETARY_FILES := \
     lib/libisp.so \
     lib/libmorpho_easy_hdr.so \
+    lib/egl/libGLES_mali.so \
     lib/hw/sensors.sc8830.so \
     lib/libyasalgo.so
 
