@@ -21,6 +21,7 @@ PROPRIETARY_FILES := \
     etc/wifi/nvram_mfg.txt \
     etc/wifi/nvram_net.txt \
     lib/egl/libGLES_mali.so \
+    lib/libboost.so \
     lib/hw/sensors.sc8830.so \
     lib/libyasalgo.so
 
