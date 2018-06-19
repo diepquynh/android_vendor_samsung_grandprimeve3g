@@ -20,11 +20,9 @@ PROPRIETARY_FILES := \
     etc/wifi/bcmdhd_sta.bin \
     etc/wifi/nvram_mfg.txt \
     etc/wifi/nvram_net.txt \
-    lib/libisp.so \
-    lib/libmorpho_easy_hdr.so \
     lib/egl/libGLES_mali.so \
     lib/hw/sensors.sc8830.so \
     lib/libyasalgo.so
 
 PRODUCT_COPY_FILES += \
-    $(foreach f,$(PROPRIETARY_FILES),vendor/samsung/grandprimeve3g/proprietary/$(f):system/$(f))
+    $(foreach f,$(PROPRIETARY_FILES),vendor/samsung/grandprimeve3g/proprietary/$(f):system/vendor/$(f))
