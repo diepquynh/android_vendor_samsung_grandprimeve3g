@@ -16,6 +16,7 @@
 
 PROPRIETARY_FILES := \
     lib/egl/libGLES_mali.so \
+    lib/libboost.so \
     lib/hw/sensors.sc8830.so \
     lib/libyasalgo.so
 
